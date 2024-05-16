@@ -16,7 +16,7 @@ public class Averageof_no_Array {
         for (int i = 0; i < arr.length; i++) {
             sum = sum + arr[i];
 
-            avg = (float) sum / arr.length;
+            avg = (float) sum / arr.length;   //type cast int to float
 
         }
         System.out.println("Sum of all no " + avg);
