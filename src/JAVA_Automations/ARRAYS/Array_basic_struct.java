@@ -8,7 +8,7 @@ public class Array_basic_struct {
 
         int size=6;
         Scanner sc=new Scanner(System.in);
-        int [] arr=new int[size];
+        int [] arr=new int[size];   // array initilization
         System.out.println("enter elements");
      //   System.out.println(arr[0]);
         for(int i=0; i<arr.length; i++)

@@ -27,7 +27,8 @@ public class Arrays_sum_of_no {
 
         for(int i = 0; i < arr.length; i++)
         {
-            sum=sum+ arr[i];               //game changer
+            sum=sum+ arr[i];    //game changer
+
         }
         System.out.println(sum);
 

@@ -3,7 +3,7 @@ package JAVA_Automations;
 import java.sql.SQLOutput;
 
 public class pallindrome {
-
+   // when the reverse number shown correct then we do pallindrome
     public static void main(String[] args) {
 
         int a= 428;
